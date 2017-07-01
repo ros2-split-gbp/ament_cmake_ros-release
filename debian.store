@@ -1,1 +1,1 @@
-{"parent": "release/r2b2/ament_cmake_ros", "base": "c8b8363", "trimbase": "", "trim": "", "previous": "d1c59ac"}
+{"base": "300a2bc", "previous": "2d7f3de", "trim": "", "parent": "release/r2b2/ament_cmake_ros", "trimbase": ""}
