@@ -1,3 +1,28 @@
+## ament_cmake_ros (foxy) - 0.9.0-1
+
+The packages in the `ament_cmake_ros` repository were released into the `foxy` distro by running `/usr/bin/bloom-release -r foxy ament_cmake_ros` on `Sat, 18 Apr 2020 00:45:16 -0000`
+
+These packages were released:
+- `ament_cmake_ros`
+- `domain_coordinator`
+
+Version of package(s) in repository `ament_cmake_ros`:
+
+- upstream repository: https://github.com/ros2/ament_cmake_ros.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.9.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.3`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## ament_cmake_ros (eloquent) - 0.8.0-1
 
 The packages in the `ament_cmake_ros` repository were released into the `eloquent` distro by running `/usr/bin/bloom-release --rosdistro eloquent ament_cmake_ros` on `Tue, 24 Sep 2019 17:04:39 -0000`
