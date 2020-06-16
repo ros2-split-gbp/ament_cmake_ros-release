@@ -1,1 +1,1 @@
-{"trim": "", "base": "aa80658", "trimbase": "", "parent": "release/foxy/ament_cmake_ros", "previous": "41ec1a9"}
+{"base": "40b8d32", "parent": "release/rolling/ament_cmake_ros", "previous": "3ca4a90", "trim": "", "trimbase": ""}
