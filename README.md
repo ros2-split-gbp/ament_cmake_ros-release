@@ -1,3 +1,28 @@
+## ament_cmake_ros (foxy) - 0.9.2-1
+
+The packages in the `ament_cmake_ros` repository were released into the `foxy` distro by running `/usr/bin/bloom-release --track foxy --rosdistro foxy ament_cmake_ros` on `Wed, 12 May 2021 12:47:57 -0000`
+
+These packages were released:
+- `ament_cmake_ros`
+- `domain_coordinator`
+
+Version of package(s) in repository `ament_cmake_ros`:
+
+- upstream repository: https://github.com/ros2/ament_cmake_ros.git
+- release repository: https://github.com/ros2-gbp/ament_cmake_ros-release.git
+- rosdistro version: `0.9.1-1`
+- old version: `0.9.1-1`
+- new version: `0.9.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.1`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## ament_cmake_ros (galactic) - 0.9.2-1
 
 The packages in the `ament_cmake_ros` repository were released into the `galactic` distro by running `/usr/bin/bloom-release --track galactic --rosdistro galactic ament_cmake_ros` on `Wed, 12 May 2021 12:45:42 -0000`
