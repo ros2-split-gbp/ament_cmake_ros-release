@@ -6,7 +6,7 @@ package_name = 'domain_coordinator'
 
 setup(
     name=package_name,
-    version='0.11.1',
+    version='0.11.2',
     packages=[
         'domain_coordinator',
     ],
@@ -19,8 +19,8 @@ setup(
     zip_safe=True,
     author='Pete Baughman',
     author_email='pete.baughman@apex.ai',
-    maintainer='Michel Hidalgo',
-    maintainer_email='michel@ekumenlabs.com',
+    maintainer='Brandon Ong',
+    maintainer_email='brandon@openrobotics.org',
     url='https://github.com/ros2/ament_cmake_ros',
     download_url='https://github.com/ros2/ament_cmake_ros/releases',
     keywords=['ROS'],
