@@ -1,0 +1,12 @@
+Source: ros-iron-ament-cmake-ros
+Section: misc
+Priority: optional
+Maintainer: Brandon Ong <brandon@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-iron-ament-cmake, ros-iron-ament-lint-auto <!nocheck>, ros-iron-ament-lint-common <!nocheck>, ros-iron-domain-coordinator, ros-iron-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-iron-ament-cmake-ros
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-iron-ament-cmake, ros-iron-ament-cmake-gmock, ros-iron-ament-cmake-gtest, ros-iron-ament-cmake-pytest, ros-iron-domain-coordinator, ros-iron-ros-workspace
+Description: The ROS specific CMake bits in the ament buildsystem.
